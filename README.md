@@ -20,5 +20,7 @@ yarn (install dependencies);
 
 yarn dev (set access port);
 
+yarn server (set access servidor)
+
 
 Access the host location and enjoy this application.
